@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "authorId": 1,
+    "content": "Just finished designing a new mobile app interface! The purple gradient theme is giving me life 💜 What do you think about bold color choices in UI design?",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1559028006-448665bd7c7f?w=600&h=400&fit=crop"
+      }
+    ],
+    "location": "San Francisco, CA",
+    "hashtags": ["#UI", "#Design", "#Purple", "#TechTuesday"],
+    "likes": 89,
+    "comments": 23,
+    "shares": 7,
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "authorId": 3,
+    "content": "Golden hour magic at the beach 🌅 Sometimes the best camera is the one you have with you. This was shot with my phone during a spontaneous walk.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"
+      }
+    ],
+    "location": "Malibu Beach, CA",
+    "hashtags": ["#Photography", "#GoldenHour", "#BeachLife"],
+    "likes": 156,
+    "comments": 34,
+    "shares": 12,
+    "createdAt": "2024-01-14T18:45:00Z"
+  },
+  {
+    "Id": 3,
+    "authorId": 4,
+    "content": "Exploring the ancient temples of Kyoto 🏯 The architecture here tells stories that span centuries. Every corner reveals a new perspective on Japanese culture and craftsmanship.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&h=400&fit=crop"
+      }
+    ],
+    "location": "Kyoto, Japan",
+    "hashtags": ["#Travel", "#Japan", "#Architecture", "#Culture"],
+    "likes": 234,
+    "comments": 45,
+    "shares": 18,
+    "createdAt": "2024-01-14T08:20:00Z"
+  },
+  {
+    "Id": 4,
+    "authorId": 5,
+    "content": "Homemade pasta night! 🍝 There's something therapeutic about making fresh pasta from scratch. The key is in the egg-to-flour ratio and patience with the kneading process.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=600&h=400&fit=crop"
+      }
+    ],
+    "location": "Home Kitchen",
+    "hashtags": ["#Cooking", "#Pasta", "#Homemade", "#FoodLove"],
+    "likes": 78,
+    "comments": 19,
+    "shares": 5,
+    "createdAt": "2024-01-13T20:15:00Z"
+  },
+  {
+    "Id": 5,
+    "authorId": 2,
+    "content": "Late night coding session with some smooth jazz 🎵 Working on a new React component library. The intersection of code and creativity never stops amazing me.",
+    "media": [],
+    "location": "",
+    "hashtags": ["#Coding", "#React", "#TechTuesday", "#LateNight"],
+    "likes": 67,
+    "comments": 15,
+    "shares": 3,
+    "createdAt": "2024-01-13T23:30:00Z"
+  }
+]
